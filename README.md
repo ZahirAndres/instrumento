@@ -28,16 +28,6 @@
 #### Ejercicio 4: Figura 2D o 3D Soldada (10 Puntos)
 - **Fotografía en Repositorio**: [Ver fotografía](/proyectos/soldadura/ejercicio_4_figura_soldada)
 
-## Parte Socioafectiva (10 Puntos)
-- **Puntualidad en la Entrega de Evidencias**: [Ver evidencias](#)
-- **Colaboración Activa en Clase**: [Ver evidencias](#)
-- **Organización y Claridad en el Repositorio**: [Ver repositorio](#)
-
-## Herramientas y Tecnologías Utilizadas
-- **Hardware**: Raspberry Pi, ESP32, Sensores (DHT11, LDR, etc.), Actuadores (LEDs, servomotores, etc.)
-- **Software**: Arduino IDE, MicroPython, Node-RED, PostgreSQL, Mosquitto MQTT
-- **Herramientas**: Protoboard, Cautín, Placa Fenólica, Multímetro
-
 ## Contribuciones
 Este proyecto fue realizado por [Tu Nombre] como parte de la evaluación ordinaria de la asignatura **Aplicaciones de IoT**.
 
