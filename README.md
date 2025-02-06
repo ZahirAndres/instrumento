@@ -23,11 +23,9 @@
 
 ### Ejercicios de Soldadura (20 Puntos)
 #### Ejercicio 3: Circuito Funcional en Placa Fenólica (10 Puntos)
-- **Demostración al Docente**: [Ver fotografía](/proyectos/soldadura/ejercicio_3_circuito_fenolica)
 - **Fotografía en Repositorio**: [Ver fotografía](/proyectos/soldadura/ejercicio_3_circuito_fenolica)
 
 #### Ejercicio 4: Figura 2D o 3D Soldada (10 Puntos)
-- **Exposición al Docente**: [Ver fotografía](/proyectos/soldadura/ejercicio_4_figura_soldada)
 - **Fotografía en Repositorio**: [Ver fotografía](/proyectos/soldadura/ejercicio_4_figura_soldada)
 
 ## Parte Socioafectiva (10 Puntos)
