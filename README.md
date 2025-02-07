@@ -6,20 +6,36 @@
 
 ## Parte Práctica (60 Puntos)
 ### Ejercicio 1: Almacenamiento de Datos (15 Puntos)
-- **Diagrama de Conexión**: [Ver diagrama](/proyectos/ejercicio_1_almacenamiento_datos/diagramas)
+- **Diagrama de Conexión**: [Ver diagrama]()
+- ## ⚠️ Advertencia  
+> 🔴 **Importante:** Algunas evidencias aún no han sido entregadas o registradas correctamente.  
+> Se recomienda verificar los enlaces y completar cualquier documentación faltante antes de la evaluación final.  
+
 - **Código Documentado**: [Ver código](https://drive.google.com/file/d/1MsKvak-uNxPDLSzYgNi-MNoY6FNCbyFu/view?usp=sharing)
 - **Video de Funcionamiento**: [Ver video](https://drive.google.com/file/d/14MlwHm4HQjHGRslvUfB50J09VRLkNeRh/view?usp=sharing)
 
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
-- **Diagrama de Conexión**: [Ver diagrama](/proyectos/ejercicio_2_control_actuadores/diagramas)
+- **Diagrama de Conexión**: [Ver diagrama]()
+- ## ⚠️ Advertencia  
+> 🔴 **Importante:** Algunas evidencias aún no han sido entregadas o registradas correctamente.  
+> Se recomienda verificar los enlaces y completar cualquier documentación faltante antes de la evaluación final.  
+
 - **Código Documentado**: [Ver código](https://drive.google.com/file/d/14MlwHm4HQjHGRslvUfB50J09VRLkNeRh/view?usp=sharing)
 - **Video de Funcionamiento**: [Ver video](/proyectos/ejercicio_2_control_actuadores/videos)
 
 ### Ejercicios en Clase: Videos Demostrativos (10 Puntos)
 - **CRUD en PostgreSQL**: [Ver video](https://drive.google.com/file/d/1LTdsi2365uG0KbI1RaFFL84pnqz_vwIt/view?usp=sharing)
 - **Instalaciones y Configuraciones Básicas**: [Ver video]()
+- ## ⚠️ Advertencia  
+> 🔴 **Importante:** Algunas evidencias aún no han sido entregadas o registradas correctamente.  
+> Se recomienda verificar los enlaces y completar cualquier documentación faltante antes de la evaluación final.  
+
 - **LED y Botón con Raspberry Pi**: [Ver video Botón](https://drive.google.com/file/d/1ayCkR2DKQ5KfLch6ubPs-PPF9SrBeLXi/view?usp=sharing) [Ver video Led](https://drive.google.com/file/d/1Lnuybu1_6YkqqEay-GOShChMK7HkrHFE/view?usp=sharing)
 - **Conexión MQTT en Node-RED**: [Ver video]()
+- ## ⚠️ Advertencia  
+> 🔴 **Importante:** Algunas evidencias aún no han sido entregadas o registradas correctamente.  
+> Se recomienda verificar los enlaces y completar cualquier documentación faltante antes de la evaluación final.  
+
 
 ### Ejercicios de Soldadura (20 Puntos)
 #### Ejercicio 3: Circuito Funcional en Placa Fenólica (10 Puntos)
