@@ -11,11 +11,7 @@
 - **Video de Funcionamiento**: [Ver video](https://drive.google.com/file/d/13mlFPmeQ_hC-IyKhHyPI91uiM4A1rMwB/view?usp=sharing)
 
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
-- **Diagrama de Conexión**: [Ver diagrama]()
-> [!WARNING]
-> 🔴 **Importante:** Algunas evidencias aún no han sido entregadas o registradas correctamente.  
-> Se recomienda verificar los enlaces y completar cualquier documentación faltante antes de la evaluación final.  
-
+- **Diagrama de Conexión**: [Ver diagrama](https://drive.google.com/file/d/1qGN5_dEbdjStkV3Rru06B1-2ufs_2y7H/view?usp=sharing)
 - **Código Documentado**: [Ver código](https://drive.google.com/file/d/14l_f879Xuobx8TiwaPu0Se6xP1Zi6V7S/view?usp=sharing)
 - **Video de Funcionamiento**: [Ver video](https://drive.google.com/file/d/19n4yVjcfeZYIwyk4OqNJJc8cIvjYOoTS/view?usp=sharing)
 
