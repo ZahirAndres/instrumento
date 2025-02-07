@@ -12,7 +12,7 @@
 > Se recomienda verificar los enlaces y completar cualquier documentación faltante antes de la evaluación final.  
 
 - **Código Documentado**: [Ver código](https://drive.google.com/file/d/19DCmFGblouoOACEMoo9PnsUInnkVHwzA/view?usp=sharing)
-- **Video de Funcionamiento**: [Ver video](https://drive.google.com/file/d/14MlwHm4HQjHGRslvUfB50J09VRLkNeRh/view?usp=sharing)
+- **Video de Funcionamiento**: [Ver video](https://drive.google.com/file/d/13mlFPmeQ_hC-IyKhHyPI91uiM4A1rMwB/view?usp=sharing)
 
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
 - **Diagrama de Conexión**: [Ver diagrama]()
