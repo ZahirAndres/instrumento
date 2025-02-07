@@ -21,10 +21,7 @@
 > Se recomienda verificar los enlaces y completar cualquier documentación faltante antes de la evaluación final.  
 
 - **Código Documentado**: [Ver código](https://drive.google.com/file/d/14l_f879Xuobx8TiwaPu0Se6xP1Zi6V7S/view?usp=sharing)
-- **Video de Funcionamiento**: [Ver video]()
-> [!WARNING]
-> 🔴 **Importante:** Algunas evidencias aún no han sido entregadas o registradas correctamente.  
-> Se recomienda verificar los enlaces y completar cualquier documentación faltante antes de la evaluación final.  
+- **Video de Funcionamiento**: [Ver video](https://drive.google.com/file/d/19n4yVjcfeZYIwyk4OqNJJc8cIvjYOoTS/view?usp=sharing)
 
 ### Ejercicios en Clase: Videos Demostrativos (10 Puntos)
 - **CRUD en PostgreSQL**: [Ver video](https://drive.google.com/file/d/1LTdsi2365uG0KbI1RaFFL84pnqz_vwIt/view?usp=sharing)
