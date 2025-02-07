@@ -7,7 +7,7 @@
 ## Parte Práctica (60 Puntos)
 ### Ejercicio 1: Almacenamiento de Datos (15 Puntos)
 - **Diagrama de Conexión**: [Ver diagrama]()
-- ## ⚠️ Advertencia  
+> [!WARNING]
 > 🔴 **Importante:** Algunas evidencias aún no han sido entregadas o registradas correctamente.  
 > Se recomienda verificar los enlaces y completar cualquier documentación faltante antes de la evaluación final.  
 
