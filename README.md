@@ -1,6 +1,7 @@
 
 ## Parte Teórica (30 Puntos)
 ### Ejercicios de NetAcad Python Fundamentals 2
+> **Nota:** Esta es una nota informativa.
 - **Capturas de Pantalla**: [Ver capturas](https://drive.google.com/file/d/1SnoXu5YPqd-OkHJrYz46UXsCJmKZVgKw/view?usp=sharing)
 
 ## Parte Práctica (60 Puntos)
