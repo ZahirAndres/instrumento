@@ -1,7 +1,7 @@
 
 ## Parte Teórica (30 Puntos)
 ### Ejercicios de NetAcad Python Fundamentals 2
-> **Nota:** Esta es una nota informativa.
+
 - **Capturas de Pantalla**: [Ver capturas](https://drive.google.com/file/d/1SnoXu5YPqd-OkHJrYz46UXsCJmKZVgKw/view?usp=sharing)
 
 ## Parte Práctica (60 Puntos)
@@ -32,3 +32,9 @@
 Este proyecto fue desarrollado por *Zahir Andrés Rodríguez Mora* y *Cesar Enrique Garay García* como parte de la evaluación ordinaria de la asignatura **Aplicaciones de IoT**. El desempeño del equipo fue satisfactorio, destacando una notable mejora en la organización y el cumplimiento de los plazos de entrega, con un esfuerzo constante por cumplir los requerimientos establecidos.
 
 Se reconoce la falta de anticipación en el registro de evidencia requerida para la evaluación. Sin embargo, se valora la búsqueda activa de una solución viable, eficiente y eficaz para garantizar su documentación.
+
+## 📌 Nota Informativa  
+> 🎓 **Calificación de Cesar Enrique Garay García: 10/10**  
+> Cesar demostró un alto nivel de autonomía y autodidactismo a lo largo del desarrollo del proyecto.  
+> Su capacidad para investigar y aplicar soluciones por iniciativa propia complementó significativamente el trabajo en equipo,  
+> asegurando un resultado más sólido y bien documentado.  
