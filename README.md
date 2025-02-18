@@ -6,7 +6,7 @@
 
 ## Parte Práctica (60 Puntos)
 ### Ejercicio 1: Almacenamiento de Datos (15 Puntos)
-- **Diagrama de Conexión**: [Ver diagrama](https://drive.google.com/file/d/1zDs04B_uuXCGFxXlg64_EvTXKkvZo8LV/view?usp=sharing)
+- **Diagrama de Conexión**: [Ver diagrama](https://drive.google.com/file/d/14u0fDQCpDR9wQBQvm8yhRC43ZOEWLgW8/view?usp=sharing)
 - **Código Documentado**: [Ver código](https://drive.google.com/file/d/19DCmFGblouoOACEMoo9PnsUInnkVHwzA/view?usp=sharing)
 - **Video de Funcionamiento**: [Ver video](https://drive.google.com/file/d/13mlFPmeQ_hC-IyKhHyPI91uiM4A1rMwB/view?usp=sharing)
 
